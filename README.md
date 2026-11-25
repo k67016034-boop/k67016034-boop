@@ -12,6 +12,13 @@
   <img src="./midnight-city.gif" width="100%" alt="Violet towers light up as two trains pass along a waterfront beneath a crescent moon.">
 </picture>
 
+## Branch Line
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./branch-line.png">
+  <img src="./branch-line.gif" width="100%" alt="A train follows a Git feature branch through three commits and merges back into main.">
+</picture>
+
 ## Lab work
 
 [GitHub Collaboration & API Interaction](https://github.com/k67016034-boop/cse103-lab-LAB3)
